@@ -1,0 +1,6 @@
+{
+  "name": "Ashhollow: Oath of the Bell",
+  "description": "A gothic horror 3D open-world exploration and quest adventure set in a cursed moonlit village.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
